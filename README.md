@@ -15,7 +15,7 @@ Are you ready to embark on a magical musical adventure? Let’s get started!
 
 **Sprunted Sprunki AU** allows players to engage with various characters in a light-hearted and romantic setting. The mod features unique animations and interactions that highlight the relationships between characters, making it an enjoyable experience for fans of romance-themed games.
 
-[![Sprunki Sinner Edition](https://spruted.com/_next/image?url=%2Fimages%2Fgames%2Fspruted-sprunki-au-incredibox%2Fcover.png&w=1920&q=75)
+![Sprunki Sinner Edition](https://spruted.com/_next/image?url=%2Fimages%2Fgames%2Fspruted-sprunki-au-incredibox%2Fcover.png&w=1920&q=75)
 
 ## Key Features of Sprunted Sprunki AU
 
